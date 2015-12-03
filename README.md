@@ -8,7 +8,7 @@ WooCommerce Arrow Payments Plugin allows you to accept payments on WooCommerce v
 12-03-2015 - version 1.0
 * Initial Release
 
-####Test Mode Credentials
+####Test Credentials
 * API Key: 5cbb15c1d87d480f8b82ee1a3abba353
 * Merchant ID: 1231616282
 * Test Customer ID: 96722
