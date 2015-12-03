@@ -1,4 +1,0 @@
-*** Arrow Payments Changelog ***
-
-12-03-2015 - version 1.0
-* Initial Release
